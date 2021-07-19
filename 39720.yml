@@ -112,8 +112,8 @@ proxies:
   - {name: United States Boston 🇺🇸, server: 173.237.207.45, port: 39720, type: ss, cipher: aes-256-gcm, password: kq8xQKC3K4jYQPwLXTNbJjm6, udp: true}
   - {name: United States Miami 🇺🇸, server: 172.83.42.157, port: 39720, type: ss, cipher: aes-256-gcm, password: kq8xQKC3K4jYQPwLXTNbJjm6, udp: true}
   - {name: Vietnam 🇻🇳, server: 202.143.110.30, port: 39720, type: ss, cipher: aes-256-gcm, password: kq8xQKC3K4jYQPwLXTNbJjm6, udp: true}
-  - {name: Godaddy 1 🇺🇸, server: 202.143.110.30, port: 39720, type: ss, cipher: aes-256-gcm, password: kq8xQKC3K4jYQPwLXTNbJjm6, udp: true}
-  - {name: Godaddy 2 🇺🇸, server: 202.143.110.30, port: 39720, type: ss, cipher: aes-256-gcm, password: kq8xQKC3K4jYQPwLXTNbJjm6, udp: true}
+  - {name: Godaddy 1 🇺🇸, server: 173.237.207.11, port: 39720, type: ss, cipher: aes-256-gcm, password: kq8xQKC3K4jYQPwLXTNbJjm6, udp: true}
+  - {name: Godaddy 2 🇺🇸, server: 173.237.207.32, port: 39720, type: ss, cipher: aes-256-gcm, password: kq8xQKC3K4jYQPwLXTNbJjm6, udp: true}
 proxy-groups:
   - name: 🔰 Select
     type: select
